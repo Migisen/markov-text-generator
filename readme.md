@@ -1,8 +1,8 @@
 ## Генератор текста 
 
 
-###Пример использования
-
+### Пример использования
+<a href="https://raw.githubusercontent.com" rel="Пример 1">![Foo](https://raw.githubusercontent.com/Migisen/markov-text-generator/master/examples/example1.png)</a>
 
 
 ### Возможности
